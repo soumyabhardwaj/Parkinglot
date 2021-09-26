@@ -20,3 +20,8 @@ The customer should be allocated a parking slot that is nearest to the entry. At
 Due to government regulation, the system should provide us with the ability to find out:-
 
 Vehicle Registration numbers for all cars which are parked by the driver of a certain age, Slot number in which a car with a given vehicle registration plate is parked. Slot numbers of all slots where cars of drivers of a particular age are parked. We interact with the system via a file-based input system, i.e. it should accept a filename as an input. The file referenced by filename will contain a set of commands separated by a newline, we need to execute the commands in order and produce output.
+
+
+# Youtube Demo video 
+Please have a look at this video , this shows how the code runs when an input file is being fed to it 
+https://www.youtube.com/watch?v=xQjDi43R7gU 
