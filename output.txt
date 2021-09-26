@@ -1,0 +1,9 @@
+Creating Parking of 6 slots
+Car with vehicle registration number KA-01-HH-1234 with having driver's age of : 21 has been parked at slot number 1
+Car with vehicle registration number PB-01-HH-1234 with having driver's age of : 21 has been parked at slot number 2
+1.) 1   2.) 2   
+Car with vehicle registration number PB-01-TG-2341 with having driver's age of : 40 has been parked at slot number 3
+2
+Slot Number : 2 vacated, the car with vehicle registration number :PB-01-HH-1234 left the space.
+Car with vehicle registration number HR-29-TG-3098 with having driver's age of : 39 has been parked at slot number 2
+NO Car is present
